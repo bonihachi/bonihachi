@@ -25,6 +25,9 @@
 ## Github Stats
 
 [![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord)]
+
+</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi\&layout=pie)
 
 
