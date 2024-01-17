@@ -28,7 +28,7 @@
 [[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi)](https://github.com/anuraghazra/github-readme-stats&theme=nord)]
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=take_it_21&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=take_it_21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
 
 <br/>  
 
