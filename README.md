@@ -23,12 +23,15 @@
 <br/>  
 
 ## Github Stats
+<div align="center">
+  
+  [![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord)]
 
-[![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord)]
+  </br>
 
-</br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi\&layout=pie)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi\&layout=pie)
+</div>  
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=take_it_21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
