@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi)](https://github.com/anuraghazra/github-readme-stats)
 
-![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&theme=transparent)
+![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=transparent)
