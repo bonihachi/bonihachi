@@ -25,7 +25,7 @@
 ## Github Stats
 <div align="center">
   
-  [![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord)]
+  ![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord)
 
   </br>
 
