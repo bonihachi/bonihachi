@@ -23,19 +23,19 @@
 <br/>
 
 ## Github Stats
-<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord&count_private=true" /></div>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi" />
+</a>
 
-  ![bonihachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord&count_private=true)
-
-  </br>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi)
-
+<div>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=take_it_21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img aligh="left" src="https://spotify-github-profile.vercel.app/api/view?uid=take_it_21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://komarev.com/ghpvc/?username=bonihachi&&style=flat-square" align="center" />
-</a>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bonihachi&&style=flat-square" align="center" />
+</div>
