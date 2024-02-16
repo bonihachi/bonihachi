@@ -24,10 +24,10 @@
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord&count_private=true" /></div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi&langs_count=3" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi&langs_count=3" />
+    <img aligh="left" src="https://github-readme-stats.vercel.app/api?username=bonihachi&show_icons=true&rank_icon=github&theme=nord&count_private=true" /></div>
 </a>
 
 <div>
