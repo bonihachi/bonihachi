@@ -29,7 +29,7 @@
 
   </br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi\&layout=pie)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonihachi)
 
 </div>  
 
